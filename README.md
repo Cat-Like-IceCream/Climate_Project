@@ -10,4 +10,4 @@ The figures obtained with my code:
 ![alt text](https://github.com/Cat-Like-IceCream/Figure_Replication/blob/main/Figure1.png)
 ![alt text](https://github.com/Cat-Like-IceCream/Figure_Replication/blob/main/Figure2.png)
 
-Yongzhe Wang (Andrew)
+Andrew
